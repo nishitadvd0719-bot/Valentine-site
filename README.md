@@ -63,7 +63,7 @@
 
   <div class="container" id="app">
     <!-- START GIF -->
-    <img src="images" alt="cute bear" />
+    <img src="https://tenor.com/en-IN/view/mocha-bear-hearts-mocha-and-milk-bears-milk-mocha-bear-gif-love-gif-7355347396987361923.gif" alt="cute bear" />
 
     <h1 id="question">Will you be my Valentine?</h1>
 
@@ -101,8 +101,8 @@
 
     yesBtn.addEventListener("click", () => {
       app.innerHTML = `
-        <img src="love/" alt="hugging bears" />
-        <h1>Ok yay!!! 💕🥰</h1>
+        <img src="https://tenor.com/en-IN/view/love-you-gif-16464856326135066512.gif" alt="hugging bears" />
+        <h1>Ok,yay!!! 💕🥰</h1>
       `;
     });
   </script>
