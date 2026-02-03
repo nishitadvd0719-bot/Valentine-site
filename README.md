@@ -101,7 +101,7 @@
 
     yesBtn.addEventListener("click", () => {
       app.innerHTML = `
-        <img src="yay.gif" alt="hugging bears" />
+        <img src="love/" alt="hugging bears" />
         <h1>Ok yay!!! 💕🥰</h1>
       `;
     });
