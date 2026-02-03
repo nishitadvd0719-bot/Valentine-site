@@ -63,7 +63,7 @@
 
   <div class="container" id="app">
     <!-- START GIF -->
-    <img src="start.gif" alt="cute bear" />
+    <img src="images" alt="cute bear" />
 
     <h1 id="question">Will you be my Valentine?</h1>
 
